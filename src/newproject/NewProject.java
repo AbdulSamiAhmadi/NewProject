@@ -16,4 +16,8 @@ public class NewProject {
 		
 	}
 
+	int age = 15;
+	int id1 = 300; 
+	System.out.println(age);
+	System.out.println(id1);
 }
